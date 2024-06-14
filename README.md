@@ -15,6 +15,7 @@ Example usage to perform Defocus Deblurring on an image directly:
 ```
 python demo.py --task Single_Image_Defocus_Deblurring --input_dir './demo/degraded/portrait.jpg' --result_dir './demo/restored/'
 ```
+下表获取作者的训练数据集和测试集
 <table>
   <tr>
     <th align="left">Task</th>
