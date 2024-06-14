@@ -54,3 +54,5 @@ python demo.py --task Single_Image_Defocus_Deblurring --input_dir './demo/degrad
     <td align="center"><a href="https://drive.google.com/file/d/1CsEiN6R0hlmEoSTyy48nnhfF06P5aRR7/view?usp=sharing">Download</a></td>
   </tr>
 </table>
+
+[作业视频演示](https://a.afbza.cn/sqrcode/video?short=jGp8Q8&domain=v.afbcs.cn&sign=)
